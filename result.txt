@@ -1,0 +1,87 @@
+
+Subject: Accountancy/Book Keeping
+Correct: 37
+Incorrect: 3
+Skipped: 10
+Score: 182 out of 200
+Wrong Answers:
+  Question 37: Given 1, Correct 4
+  Question 39: Given 1, Correct 3
+  Question 49: Given 1, Correct 2
+
+Subject: Business Studies
+Correct: 39
+Incorrect: 1
+Skipped: 10
+Score: 194 out of 200
+Wrong Answers:
+  Question 19: Given 3, Correct 5
+
+Subject: Economics/Business Economics
+Correct: 34
+Incorrect: 6
+Skipped: 10
+Score: 164 out of 200
+Wrong Answers:
+  Question 4: Given 2, Correct 3
+  Question 5: Given 2, Correct 3
+  Question 9: Given 1, Correct 2
+  Question 12: Given 3, Correct 4
+  Question 33: Given 1, Correct 2
+  Question 39: Given 1, Correct 2
+
+Subject: English
+Correct: 33
+Incorrect: 7
+Skipped: 10
+Score: 158 out of 200
+Wrong Answers:
+  Question 8: Given 2, Correct 3
+  Question 10: Given 4, Correct 2
+  Question 21: Given 4, Correct 3
+  Question 24: Given 1, Correct 3
+  Question 35: Given 2, Correct D
+  Question 36: Given 3, Correct 2
+  Question 38: Given 2, Correct 1
+
+Subject: General Test
+Correct: 28
+Incorrect: 19
+Skipped: 13
+Score: 121 out of 250
+Wrong Answers:
+  Question 22: Given 2, Correct 4
+  Question 23: Given 2, Correct 3
+  Question 24: Given 2, Correct 1
+  Question 25: Given 3, Correct 2
+  Question 26: Given 2, Correct 1
+  Question 27: Given 2, Correct 1
+  Question 28: Given 2, Correct 4
+  Question 29: Given 2, Correct 1
+  Question 30: Given 4, Correct 2
+  Question 31: Given 4, Correct 2
+  Question 32: Given 4, Correct 1
+  Question 34: Given 2, Correct 1
+  Question 35: Given 2, Correct 4
+  Question 36: Given 2, Correct 3
+  Question 39: Given 2, Correct 4
+  Question 40: Given 2, Correct 4
+  Question 47: Given 2, Correct 1
+  Question 48: Given 3, Correct 2
+  Question 52: Given 2, Correct 1
+
+Subject: Mathematics / Applied Mathematics
+Correct: 29
+Incorrect: 4
+Skipped: 52
+Score: 141 out of 200
+Wrong Answers:
+  Question 4: Given 4, Correct 3
+  Question 6: Given 3, Correct 4
+  Question 29: Given 3, Correct 4
+  Question 35: Given 2, Correct 4
+
+==============================
+GRAND TOTAL
+==============================
+Total Score: 960 out of 1250
